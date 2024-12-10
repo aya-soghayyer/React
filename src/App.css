@@ -1,0 +1,8 @@
+.hidden{
+  display: none;
+  visibility:hidden;
+}
+.show{
+  display:contents;
+  visibility:visible;
+}
