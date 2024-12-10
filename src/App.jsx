@@ -15,9 +15,9 @@ function App() {
 
   return (
     <>
-      <div className="counter">
+      <h1 className="counter">
         coutner: {count}
-      </div>
+      </h1>
       <div >
         <div className="div">
         <button onClick={() => setCount((count) => count + 1)}>
